@@ -1,0 +1,6 @@
+1. Run migration_v4_multirole.sql in Supabase SQL Editor.
+2. Keep the existing V3 connection security patch already applied.
+3. Replace the old V3 frontend with this V4 index.html when deploying.
+4. Create a company or complete onboarding after signing in.
+5. Select one or multiple business roles.
+6. Submit business verification documents. The UI keeps verification pending until an actual review/AI workflow approves it.
